@@ -8,21 +8,22 @@
 </div>
 
 <!--Header Name-->
+
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴄʜᴀʏᴄᴇ!
+
 *Digital Craftsman (Developer / Programmer)*
 <br />
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with expertise in C#, Node.js, JavaScript, Svelte, TypeScript, Fastify, Express, ASP.NET, C++, ethical game hacking, and AI.</p>
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/vynxc).
-- 💁‍♂️ Volunteer MOD at **Dev Community**.
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
+- 🌱 I know C#, Node.js, JavaScript, Svelte, TypeScript, Fastify, Express, ASP.NET, C++, ethical game hacking, and AI.
+- 💁‍♂️ Always learning new things.
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://vynxc.github.io) for more details about me.
+
 <!--End Intro-->
+
 
 <!--Profile Count Badge-->
 <p align="left">
@@ -33,11 +34,13 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
+<h2 align="center">𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬</h2>
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=cs,nodejs,js,svelte,bun,typescript,cpp"  />
 </p>
 <br />
+<!--End Languages and Tools Section-->
+
 
 
 <!--Trophies Section-->   
@@ -62,6 +65,7 @@
         </a>
       </p>
     </td>
+  <tr>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
@@ -77,14 +81,6 @@
       <p align="center">
         <a href="https://github.com/vynxc/cryptos">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=vynxc&repo=cs2internal&theme=nightowl&show_owner=true" alt="Cryptos Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/vynxc">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=vynxc&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
