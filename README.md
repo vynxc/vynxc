@@ -55,7 +55,7 @@
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
@@ -79,8 +79,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/vynxc/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=vynxc&repo=cs2internal&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/vynxc/cs2internal">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=vynxc&repo=cs2internal&theme=nightowl&show_owner=true" alt="cs2internal Project" />
         </a>
       </p>
     </td>
