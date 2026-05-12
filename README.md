@@ -1,4 +1,4 @@
-# 0x76
+# 0x56
 
 > "its simple but it aint easy. dont overcomplicate it"
 
